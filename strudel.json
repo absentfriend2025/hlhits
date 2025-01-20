@@ -1,0 +1,7 @@
+{
+  "_base": "https://raw.githubusercontent.com/absentfriend2025/hlhits/main/",
+  "hlhits": ["hlhits/bullet_hit1.wav", "hlhits/bullet_hit2.wav", "hlhits/cbar_hit1.wav", "hlhits/cbar_hit2.wav", "hlhits/cbar_hitbod1.wav", "hlhits/cbar_hitbod2.wav", "hlhits/cbar_hitbod3.wav",
+             "hlhits/cbar_miss1.wav", "hlhits/g_bounce1.wav", "hlhits/g_bounce2.wav", "hlhits/g_bounce3.wav", "hlhits/g_bounce4.wav", "hlhits/g_bounce5.wav", "hlhits/glauncher.wav", "hlhits/glauncher2.wav",
+             "hlhits/grenade_hit1.wav", "hlhits/grenade_hit2.wav", "hlhits/grenade_hit3.wav", "hlhits/mine_activate.wav", "hlhits/pl_gun1.wav", "hlhits/pl_gun2.wav", "hlhits/ric1.wav", "hlhits/ric2.wav", "hlhits/ric3.wav",
+             "hlhits/ric4.wav", "hlhits/ric5.wav", "hlhits/sshell1.wav", "hlhits/sshell2.wav", "hlhits/sshell3.wav", "hlhits/xbow_fire1.wav", "hlhits/xbow_hit1.wav", "hlhits/xbow_hit2.wav", "hlhits/xbow_hitbod1.wav", "hlhits/xbow_hitbod1.wav"]
+}
