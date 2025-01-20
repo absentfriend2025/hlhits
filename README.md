@@ -1,3 +1,3 @@
 # hlhits
 
-Samples for Strudel (https://www.strudel.cc)
+Samples for Strudel (https://www.strudel.cc).
